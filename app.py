@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # Load model pipeline (with preprocessing + model)
-model = joblib.load('D:/Loan Approval App/model/loan_model_pipeline.pkl')
+model = joblib.load('model/loan_model_pipeline.pkl')
 
 # Add logo/image at the top
 st.image('https://raw.githubusercontent.com/yourusername/yourrepo/main/logo.png', width=150)  # Replace URL or local path
