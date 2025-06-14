@@ -32,11 +32,6 @@ A Machine Learning-powered web app that predicts whether a bank loan will be app
   - Random Forest
   - Decision Tree
 
----
-
-## 🖼️ App UI Screenshot
-
-![Loan Approval App UI](images/screenshot.png)
 
 ---
 
