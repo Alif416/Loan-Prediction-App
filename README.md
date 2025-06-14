@@ -4,6 +4,11 @@ A Machine Learning-powered web app that predicts whether a bank loan will be app
 
 ---
 
+🌐 Live Demo
+👉 https://loan-prediction-app-laa.streamlit.app/
+
+
+
 ## 🚀 Features
 
 - 🔍 User-friendly Streamlit web interface
@@ -61,9 +66,3 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-
-🌐 Live Demo
-👉 https://loan-prediction-app-laa.streamlit.app/
-
-
-⭐️ If you found this helpful, give the repo a star and share it with others!
